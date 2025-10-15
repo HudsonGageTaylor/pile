@@ -1,4 +1,6 @@
 ![Banner](img/logo1.png)  
+# STILL IN DEVELOPMENT! All builds are in beta testing.
+
 # All-In-One Compiler For Windows!
 This program simplifies compiling files from the command line by automatically choosing which compiler to use. Compiling from CMD has never been so easy! compile is written in C++ and can be tweaked if needed.
 # Requirements
